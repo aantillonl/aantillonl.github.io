@@ -7,7 +7,8 @@ title: Alejandro Antillon
 
 ---
 
-Data Engineer | 8+ years experience | AWS Certified Developer
+Data Engineer | 8+ years experience
+[AWS Certified Developer](https://www.credly.com/badges/6188ad4f-5044-4db2-925d-cdb3d32a424e/public_url) | [AWS Certified DevOps Engineer](https://www.credly.com/badges/4d9dd0e2-9db0-426a-a07a-c7b8209d2399)
 
 📍 Based in Tokyo, Japan.
 🔗 [LinkedIn](https://www.linkedin.com/in/alejandro-antillon-08981975/) | [GitHub](https://github.com/aantillonl)
@@ -31,19 +32,6 @@ I’ve worked with product and research teams at companies like **Spotify**, **F
 
 ---
 
-## 🚧 Projects
-
-### 🌎 Perfil Económico por Estado (Spanish)
-A Spark-based analysis of INEGI economic census data. Computes economic concentration per state and visualizes it with a choropleth map.
-
-- Technologies: Spark, Scala, Pandas, GeoPandas, Markdown
-- [GitHub Repo](https://github.com/yourusername/mexico-economic-profile)
-
-### 🔌 Real-Time Analytics Pipeline (Spotify)
-Developed a low-latency ETL pipeline for real-time event ingestion and processing using Kafka, Flink, and BigQuery.
-
----
-
 ## 🎓 Education
 
 - **MSc in Computer Science**, Lappeenranta University of Technology (Finland)  
@@ -54,7 +42,7 @@ Developed a low-latency ETL pipeline for real-time event ingestion and processin
 ## 🧭 What I'm Exploring
 
 - Functional Programming in Scala
-- GPU-accelerated data processing (RAPIDS, CUDA, Spark RAPIDS)
+- Learning parallel computing programming using CUDA
 
 ---
 
