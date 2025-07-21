@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Understanding the Candy Machine Problem"
+title:  "FP In Scala. Understanding the Candy Machine Problem"
 date:   2025-06-17 11:00:00 -0500
 ---
 
