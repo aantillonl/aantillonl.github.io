@@ -6,8 +6,8 @@ date:   2025-06-17 11:00:00 -0500
 
 This document is a transcript of [the story published on Medium](https://medium.com/@alejandroantillon/the-candy-machine-problem-a30b6b233517)
 
-The aim of this article is to offer a little guidance for the Candy Machine problem from Functional Programming in Scala — Chapter 6 — and the suggested solution provided in the book’s official GitHub:
-https://github.com/fpinscala/fpinscala/blob/second-edition/src/main/scala/fpinscala/answers/state/State.scala
+The aim of this article is to offer a little guidance for the Candy Machine problem from Functional Programming in Scala — Chapter 6 — and the suggested (solution provided in the book’s official GitHub]
+(https://github.com/fpinscala/fpinscala/blob/second-edition/src/main/scala/fpinscala/answers/state/State.scala).
 And maybe, more importantly, to offer a bit of emotional support for anyone struggling with this book (I certainly am).
 
 ## 🔁 Let’s begin with the update function
