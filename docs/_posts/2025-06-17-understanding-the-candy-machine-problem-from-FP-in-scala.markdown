@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Understanding the Candy Machine Problem"
-date:   2025-07-09 11:00:00 -0500
+date:   2025-06-17 11:00:00 -0500
 ---
 
 This document is a transcript of [the story published on Medium](https://medium.com/@alejandroantillon/the-candy-machine-problem-a30b6b233517)

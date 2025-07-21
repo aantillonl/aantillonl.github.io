@@ -18,7 +18,7 @@ Data Engineer | 8+ years experience
 ## 🧠 About Me
 
 I'm a Data Engineer with 8+ years of experience building data platforms, working with Spark, Scala, Python, and cloud-native tools (AWS & GCP).  
-I’ve worked with product and research teams at companies like **Spotify**, **F-Secure**, and **Wizeline**, building and operating data systems at large scale.
+I’ve worked with product and research teams at companies like **Spotify** and **F-Secure** building and operating data systems at large scale.
 
 ---
 
