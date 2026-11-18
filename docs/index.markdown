@@ -15,14 +15,24 @@ Data Engineer | 8+ years experience
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a Data Engineer with 8+ years of experience building data platforms, working with Spark, Scala, Python, and cloud-native tools (AWS & GCP).  
 I’ve worked with product and research teams at companies like **Spotify** and **F-Secure** building and operating data systems at large scale.
 
+## Experience
+
+- Woven By Toyota / Data Engineer: March 2026 - Present
+- Spotify / Data Engineer: July 2022 - Jan 2023, Helsinki, Finland
+- F-Secure / Data Engineer: Apr 2018 - June 2022, Helsinki, Finland
+- Amazon JP / Data Engineer: Aug 2025 - March 2026
+- Wizeline / Data Engineer: July 2023 - July 2024
+- Inline / Software Engineer Mar 2016 - Jul 2017,  Helsinki, Finland
+- Sitek / Jr. Software Engineer Feb 2013 - Sept 2014,  Mexico
+
 ---
 
-## 🛠️ Skills
+## Skills
 
 - **Languages**: Python, Scala, SQL, Bash  
 - **Big Data**: Spark, Redshift, BigQuery, DataFlow.
@@ -32,21 +42,22 @@ I’ve worked with product and research teams at companies like **Spotify** and 
 
 ---
 
-## 🎓 Education
+## Education
 
 - **MSc in Computer Science**, Lappeenranta University of Technology (Finland)  
 - **BS in Electrical Engineering**, Instituto Tecnológico de Chihuahua
 
 ---
 
-## 🧭 What I'm Exploring
+## What I'm Exploring
 
+- MCP and Agentic workflows
 - Functional Programming in Scala
 - Learning parallel computing programming using CUDA
 
 ---
 
-## 📫 Get In Touch
+## Get In Touch
 
 I'm always happy to talk about data engineering, AI, and distributed systems.
 
